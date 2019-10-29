@@ -30,6 +30,7 @@
         "*.meta",
         "*.asmdef",
         "*.xml",
+        "Documentation",
         "Runtime"
     ]
 }
